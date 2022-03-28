@@ -1,0 +1,16 @@
+html{background-color:rgba(223, 55, 4, 0.911) ;
+}
+h1{color:gold;
+}
+img{ width: 400px;
+}
+#thirdDiv{height: 600px;
+    width: 500px;
+    background-color: rgb(240, 175, 53);
+    padding: 50px;
+    border:rgb(0, 0, 0)solid;
+    
+}
+#spanid{font-size:18px;
+    margin: 50px;
+}
